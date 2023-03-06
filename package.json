@@ -1,0 +1,24 @@
+{
+  "name": "myfirstserver",
+  "version": "1.0.0",
+  "description": "This is my first server using Node Js",
+  "main": "main2.js",
+  "scripts": {
+    "start": "node main2.js",
+    "dev": "nodemon main2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeZLa369/MyFirstServer.git"
+  },
+  "author": "Kuntal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeZLa369/MyFirstServer/issues"
+  },
+  "homepage": "https://github.com/TeZLa369/MyFirstServer#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
